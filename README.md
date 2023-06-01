@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on copilot based on chatGPT
-- 🌱 I’m currently learning machine learning 
+- 🔭 I’m currently pursuing Final Year in Btech 
+- 🌱 I’m a machine learning enthusiast.😁
 
 
 
